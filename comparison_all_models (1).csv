@@ -1,0 +1,8 @@
+Model,Type,Accuracy,Precision,Recall,F1-Score,Keterangan
+EfficientNetB0,DL,0.9,0.9088,0.8929,0.8974,Best Model
+MobileNetV2,DL,0.81,0.8206,0.8192,0.81,
+SVM-Linear,ML,0.63,0.6349,0.6354,0.63,
+SVM-Best-Grid,ML,0.59,0.5881,0.5889,0.588,
+SVM-RBF,ML,0.58,0.579,0.5798,0.5785,
+SVM-PCA,ML,0.53,0.5321,0.5323,0.5296,
+CNN-Baseline,DL,0.46,0.5601,0.5071,0.3443,
