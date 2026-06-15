@@ -177,6 +177,8 @@ Dosen Pengampu: **Erika Maulidiya, S.Kom., M.Kom**
 (jurnal diatas adalah jurnal pelapor modelnya, sedangkan untuk penelitian terbaru dijadikan sebagai pendamping)
 ---
 
+Link Dataset: https://www.kaggle.com/datasets/mhmdrizkisaputra/garpu-uas-dataset
+
 <div align="center">
   <sub>UAS Machine Learning · 2025/2026 · Universitas Lambung Mangkurat</sub>
 </div>
